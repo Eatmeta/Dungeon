@@ -1,0 +1,15 @@
+C:\Users\69\RiderProjects\Ulearn Part 2\Dungeon\bin\Debug\Dungeons\Dungeon4.txt
+C:\Users\69\RiderProjects\Ulearn Part 2\Dungeon\bin\Debug\Dungeons\Dungeon3.txt
+C:\Users\69\RiderProjects\Ulearn Part 2\Dungeon\bin\Debug\Dungeons\Dungeon2.txt
+C:\Users\69\RiderProjects\Ulearn Part 2\Dungeon\bin\Debug\Dungeons\Dungeon1.txt
+C:\Users\69\RiderProjects\Ulearn Part 2\Dungeon\bin\Debug\Dungeon.exe.config
+C:\Users\69\RiderProjects\Ulearn Part 2\Dungeon\bin\Debug\Dungeon.exe
+C:\Users\69\RiderProjects\Ulearn Part 2\Dungeon\bin\Debug\Dungeon.pdb
+C:\Users\69\RiderProjects\Ulearn Part 2\Dungeon\bin\Debug\nunit.framework.dll
+C:\Users\69\RiderProjects\Ulearn Part 2\Dungeon\obj\Debug\Dungeon.csproj.AssemblyReference.cache
+C:\Users\69\RiderProjects\Ulearn Part 2\Dungeon\obj\Debug\Dungeon.Properties.Resources.resources
+C:\Users\69\RiderProjects\Ulearn Part 2\Dungeon\obj\Debug\Dungeon.csproj.GenerateResource.cache
+C:\Users\69\RiderProjects\Ulearn Part 2\Dungeon\obj\Debug\Dungeon.csproj.CoreCompileInputs.cache
+C:\Users\69\RiderProjects\Ulearn Part 2\Dungeon\obj\Debug\Dungeon.csproj.CopyComplete
+C:\Users\69\RiderProjects\Ulearn Part 2\Dungeon\obj\Debug\Dungeon.exe
+C:\Users\69\RiderProjects\Ulearn Part 2\Dungeon\obj\Debug\Dungeon.pdb
